@@ -6,9 +6,14 @@ Objective:
 2. Clean and Transform dataset
 3. Exploratory analysis questions.
 -> Top rated movies.
+
 -> Top voted movies.
+
 -> Movies with highest Gross.
+
 -> Directors who has directed maximum movies.
+
 -> Highest Rated Genre.
+
 -> Highest Gross Genre.
 
