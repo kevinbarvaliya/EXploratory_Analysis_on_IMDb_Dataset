@@ -5,15 +5,15 @@ Objective:
 1. Scrap top 1000 movies data from IMDB.
 2. Clean and Transform dataset
 3. Exploratory analysis questions.
--> Top rated movies.
+  -> Top rated movies.
 
--> Top voted movies.
+  -> Top voted movies.
 
--> Movies with highest Gross.
+  -> Movies with highest Gross.
 
--> Directors who has directed maximum movies.
+  -> Directors who has directed maximum movies.
 
--> Highest Rated Genre.
+  -> Highest Rated Genre.
 
--> Highest Gross Genre.
+  -> Highest Gross Genre.
 
